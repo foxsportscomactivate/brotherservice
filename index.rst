@@ -1,5 +1,5 @@
 ##################
-How to Set Up your Brother Printer?
+How Can I Configure My Brother Printer?
 ##################
 
 .. meta::
